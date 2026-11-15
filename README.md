@@ -1,7 +1,7 @@
 # Aprendizaje Autónomo 1 - Principios de Sistemas de Software Distribuido
 
 **Estudiante:** Darwin Homero Palacios Contreras  
-**ID:** 1750966929  
+**Cedula:** 1750966929  
 **Universidad:** Universidad Internacional del Ecuador (UIDE)  
 
 ## Descripción del Proyecto
