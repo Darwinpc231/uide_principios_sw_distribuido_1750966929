@@ -1,0 +1,11 @@
+apply plugin: 'application'
+
+application {
+    mainClassName = 'SimpleGrabURL'
+    description = "SimpleGrabURL Example"
+}
+
+run {
+  // default arguments
+  args 'https://devhints.io/bash' // url
+}
